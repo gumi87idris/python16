@@ -13,6 +13,7 @@ git remote add origin github.com/gumi87idris/python16.git
 
 git clone - просто клон проекта из удаленного сервера Ginhub 
 
-lghjsoiejgisgkjsogjmg
-dknglksngl
-jngljngli
+настройки глобального
+git config --global user.name 'gulmira' - 
+git config --global user.email g.djumadylova@gmail.com
+
