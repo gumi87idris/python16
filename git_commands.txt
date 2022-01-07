@@ -12,3 +12,7 @@ git commit -m 'comments' - он фиксирует файл и создает х
 git remote add origin github.com/gumi87idris/python16.git
 
 git clone - просто клон проекта из удаленного сервера Ginhub 
+
+lghjsoiejgisgkjsogjmg
+dknglksngl
+jngljngli
