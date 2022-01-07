@@ -19,4 +19,5 @@ git clone - просто клон проекта из удаленного се�
 git config --global user.name 'gulmira' - 
 git config --global user.email g.djumadylova@gmail.com
 
-gut checkout bug_fix (изменить ветку)
+git checkout bug_fix (изменить ветку)
+git 
